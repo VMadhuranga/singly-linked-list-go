@@ -1,1 +1,3 @@
-# singly-linked-list-go
+# Singly linked list GO
+
+Implementation of singly liked list with go
